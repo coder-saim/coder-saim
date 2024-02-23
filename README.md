@@ -58,9 +58,12 @@
 
 </p>
 
+> GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-saim&show_icons=true&locale=en&layout=compact" alt="coder-saim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-saim&show_icons=true&locale=en&include_all_commits=true" alt="coder-saim"/>
+![](https://github-readme-stats.vercel.app/api?username=coder-saim&hide_border=true&include_all_commits=true&align="center")<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=coder-saim&hide_border=true)<br/> -->
 </p>
 
 <hr>
